@@ -1,0 +1,23 @@
+
+.panel{
+    margin:10px;
+    
+    overflow-x:none;
+}
+
+img{height:auto; width: 100%; margin;10px; box-shadow:0 6px 6px -6px #000; object-fit: cover;}
+
+.horizontal-row{
+overflow-x:visible;
+width: 3000px;
+padding-left: 5%;
+display:flex;
+flex-wrap:nowrap;
+}
+
+.vertical-row{
+width: 100%;
+padding:2%;
+display:flex;
+flex-wrap:wrap;
+}
